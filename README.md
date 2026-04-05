@@ -50,17 +50,30 @@
 
 ---
 
+---
+
 ### 📊 SYSTEM ANALYTICS
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizal-dev13&show_icons=true&theme=transparent&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=444" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizal-dev13&layout=compact&theme=transparent&hide_border=true&title_color=0ea5e9&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizal-dev13&show_icons=true&theme=tokyonight&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9" width="48%" alt="Faizal GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizal-dev13&layout=compact&theme=tokyonight&hide_border=true&title_color=0ea5e9&langs_count=8" width="40%" alt="Faizal Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizal-dev13&theme=tokyonight&hide_border=true&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" width="89%" alt="Faizal Streak Stats" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faizal-dev13&theme=flat&no-frame=true&column=7&margin-w=15&rank=SSS,SS,S,A,B" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizal-dev13&theme=flat&no-frame=true&column=7&margin-w=15" width="100%" alt="Faizal Trophies" />
 </p>
 
 <br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/Faizal-dev13/Faizal-dev13?color=0ea5e9&label=LAST%20UPDATE&style=for-the-badge" />
+</p>
